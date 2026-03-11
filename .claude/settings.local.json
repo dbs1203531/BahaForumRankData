@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:forum.gamer.com.tw)",
+      "WebFetch(domain:api.gamer.com.tw)"
+    ]
+  }
+}
