@@ -3,6 +3,7 @@ import logging
 from scraper.categories import CATEGORIES, PAGES_NEEDED, TOP_N_FOR_README
 from scraper.fetch import collect_category
 from save_csv import save_csv
+from save_json import save_json
 from update_readme import update_readme
 
 logging.basicConfig(
@@ -45,6 +46,13 @@ def main() -> None:
         except Exception as exc:
             logger.error("Failed to save CSV for '%s': %s", slug, exc, exc_info=True)
             sys.exit(1)
+
+    # Save JSON feeds for GitHub Pages embeds and external consumers
+    try:
+        save_json(results, CATEGORIES)
+    except Exception as exc:
+        logger.error("Failed to save JSON feeds: %s", exc, exc_info=True)
+        sys.exit(1)
 
     # Update README
     try:

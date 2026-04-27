@@ -114,6 +114,66 @@ _更新時間: 2026-04-26_
 
 ---
 
+## GitHub Pages 展示站
+
+專案另外提供 GitHub Pages 展示站，包含：
+
+- 三種嵌入版型的即時預覽
+- 可直接複製的 `iframe` 嵌入語法
+- 實際可嵌入網站的榜單頁面
+
+啟用後可從這裡查看：
+
+- 展示首頁：<https://dbs1203531.github.io/BahaForumRankData/>
+- 嵌入頁範例：<https://dbs1203531.github.io/BahaForumRankData/embed/ranking.html?layout=sidebar&category=mobile&limit=8>
+
+---
+
+## JSON 資料輸出
+
+除了每日 CSV，專案也會輸出給嵌入頁使用的 JSON：
+
+- [`data/latest.json`](./data/latest.json)：三個分類的合併資料
+- [`data/latest/`](./data/latest/)：各分類獨立資料
+
+每筆榜單資料包含：
+
+- `rank`
+- `title`
+- `popularity`
+- `article`
+- `bsn`
+- `board_url`
+- `category_slug`
+- `category_label`
+
+---
+
+## 嵌入語法
+
+官方建議使用 `iframe`，因為最通用，也最不容易和使用者網站樣式衝突。
+
+```html
+<iframe
+  src="https://dbs1203531.github.io/BahaForumRankData/embed/ranking.html?layout=sidebar&category=mobile&limit=8"
+  width="340"
+  height="560"
+  style="border:0;"
+  loading="lazy">
+</iframe>
+```
+
+可用參數：
+
+- `layout=sidebar|banner|inline`
+- `category=mobile|pc|lifestyle`
+- `limit=數量`
+- `theme=light`
+
+如果你是 fork 這個專案，請把網址改成你自己的 GitHub Pages 網址。
+
+---
+
 ## 本地執行
 
 ```bash
@@ -123,4 +183,11 @@ python main.py
 
 ## GitHub Actions
 
-專案透過 GitHub Actions 排程自動執行，詳見 [`.github/workflows/update_rankings.yml`](.github/workflows/update_rankings.yml)。
+專案透過 GitHub Actions 排程自動執行，會：
+
+- 抓取最新排行
+- 更新 `README.md`
+- 產生 `CSV` 與 `JSON`
+- 部署 `docs/` 到 GitHub Pages
+
+詳見 [`.github/workflows/update_rankings.yml`](.github/workflows/update_rankings.yml)。

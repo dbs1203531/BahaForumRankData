@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>巴哈論壇排行嵌入展示站</title>
+    <meta name="description" content="預覽巴哈論壇排行嵌入版型，並直接複製 iframe 嵌入語法。">
+    <link rel="stylesheet" href="./assets/site.css">
+  </head>
+  <body class="site-shell">
+    <main class="site-main">
+      <section class="hero">
+        <p class="eyebrow">GitHub Pages Demo</p>
+        <h1>巴哈論壇排行嵌入展示站</h1>
+        <p class="hero-copy">
+          這個站提供即時預覽、可直接複製的 <code>iframe</code> 語法，以及三種適合不同欄位的榜單版型。
+          嵌入頁面本身會讀取最新 JSON，不需要你的網站再額外處理資料。
+        </p>
+        <div class="hero-actions">
+          <a class="button" href="./embed/ranking.html?layout=banner&category=pc&limit=10">直接看嵌入頁</a>
+          <a class="button button-secondary" href="https://github.com/dbs1203531/BahaForumRankData">GitHub Repo</a>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Live Preview</p>
+            <h2>版型範例</h2>
+          </div>
+          <p class="section-copy">每個預覽都是真正的嵌入頁 iframe。下方的語法可直接貼到部落格、CMS 或任意 HTML 區塊。</p>
+        </div>
+
+        <div class="example-grid">
+          <article class="example-card" data-embed-src="./embed/ranking.html?layout=sidebar&category=mobile&limit=8" data-embed-width="340" data-embed-height="560">
+            <div class="example-copy">
+              <p class="eyebrow">Sidebar</p>
+              <h3>側欄榜單</h3>
+              <p>適合 280 到 360px 邊欄。密度高、資訊清楚，適合首頁與文章頁右側欄。</p>
+            </div>
+            <div class="frame-shell frame-shell-sidebar">
+              <iframe class="demo-frame" title="側欄榜單預覽" loading="lazy"></iframe>
+            </div>
+            <pre class="code-block"><code class="embed-code"></code></pre>
+            <div class="card-actions">
+              <button class="copy-button" type="button">複製語法</button>
+              <a class="text-link" href="./examples/sidebar.html">查看大圖</a>
+            </div>
+          </article>
+
+          <article class="example-card" data-embed-src="./embed/ranking.html?layout=banner&category=pc&limit=10" data-embed-width="960" data-embed-height="720">
+            <div class="example-copy">
+              <p class="eyebrow">Banner</p>
+              <h3>橫幅榜單</h3>
+              <p>接近巴哈熱門榜單的橫向卡片感，適合首頁主欄、專題頁或寬版區塊。</p>
+            </div>
+            <div class="frame-shell frame-shell-banner">
+              <iframe class="demo-frame" title="橫幅榜單預覽" loading="lazy"></iframe>
+            </div>
+            <pre class="code-block"><code class="embed-code"></code></pre>
+            <div class="card-actions">
+              <button class="copy-button" type="button">複製語法</button>
+              <a class="text-link" href="./examples/banner.html">查看大圖</a>
+            </div>
+          </article>
+
+          <article class="example-card" data-embed-src="./embed/ranking.html?layout=inline&category=lifestyle&limit=5" data-embed-width="760" data-embed-height="420">
+            <div class="example-copy">
+              <p class="eyebrow">Inline</p>
+              <h3>文章內嵌榜單</h3>
+              <p>高度較低，適合插入文章內文中段或一般內容欄，不會壓縮閱讀節奏。</p>
+            </div>
+            <div class="frame-shell frame-shell-inline">
+              <iframe class="demo-frame" title="文章內嵌榜單預覽" loading="lazy"></iframe>
+            </div>
+            <pre class="code-block"><code class="embed-code"></code></pre>
+            <div class="card-actions">
+              <button class="copy-button" type="button">複製語法</button>
+              <a class="text-link" href="./examples/inline.html">查看大圖</a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section section-compact">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Parameters</p>
+            <h2>嵌入參數</h2>
+          </div>
+          <p class="section-copy">第一版官方只提供 <code>iframe</code>，可用查詢字串切換版型與分類。</p>
+        </div>
+
+        <div class="parameter-grid">
+          <article class="parameter-card">
+            <h3><code>layout</code></h3>
+            <p><code>sidebar</code>、<code>banner</code>、<code>inline</code></p>
+          </article>
+          <article class="parameter-card">
+            <h3><code>category</code></h3>
+            <p><code>mobile</code>、<code>pc</code>、<code>lifestyle</code></p>
+          </article>
+          <article class="parameter-card">
+            <h3><code>limit</code></h3>
+            <p>顯示筆數，建議 3 到 12 筆之間</p>
+          </article>
+          <article class="parameter-card">
+            <h3><code>theme</code></h3>
+            <p>目前支援 <code>light</code>，其餘值會回退到預設</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <script src="./assets/site.js" defer></script>
+  </body>
+</html>
