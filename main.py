@@ -24,10 +24,15 @@ def main() -> None:
         logger.info("=== Collecting '%s' (c=%s) ===", label, c)
         try:
             boards = collect_category(c, PAGES_NEEDED)
-            if len(boards) < PAGES_NEEDED * 30:
+            expected_count = PAGES_NEEDED * 30
+            if not boards:
+                logger.error("'%s' returned 0 boards; refusing to publish empty data.", label)
+                failed.append(slug)
+                continue
+            if len(boards) < expected_count:
                 logger.warning(
                     "'%s' returned only %d boards (expected %d).",
-                    label, len(boards), PAGES_NEEDED * 30,
+                    label, len(boards), expected_count,
                 )
             results[slug] = boards
             logger.info("Collected %d boards for '%s'.", len(boards), label)

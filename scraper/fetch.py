@@ -25,6 +25,7 @@ def _get_with_retry(url: str, params: dict, timeout: int) -> requests.Response:
         try:
             resp = requests.get(url, params=params, headers=HEADERS, timeout=timeout)
             resp.raise_for_status()
+            resp.encoding = "utf-8"
             return resp
         except requests.RequestException as exc:
             logger.warning("Attempt %d/%d failed for %s: %s", attempt, MAX_RETRIES, url, exc)
