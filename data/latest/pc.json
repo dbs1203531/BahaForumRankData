@@ -10,7 +10,7 @@
     {
       "rank": 1,
       "title": "新楓之谷",
-      "popularity": 245515,
+      "popularity": 229120,
       "article": 47,
       "bsn": 7650,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=7650",
@@ -20,7 +20,7 @@
     {
       "rank": 2,
       "title": "MapleStory Worlds",
-      "popularity": 216916,
+      "popularity": 213753,
       "article": 59,
       "bsn": 79354,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=79354",
@@ -30,7 +30,7 @@
     {
       "rank": 3,
       "title": "暗黑破壞神 4",
-      "popularity": 188793,
+      "popularity": 189856,
       "article": 110,
       "bsn": 75105,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=75105",
@@ -40,7 +40,7 @@
     {
       "rank": 4,
       "title": "天堂：經典版",
-      "popularity": 145919,
+      "popularity": 137717,
       "article": 113,
       "bsn": 84452,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=84452",
@@ -50,7 +50,7 @@
     {
       "rank": 5,
       "title": "Final Fantasy XIV",
-      "popularity": 88779,
+      "popularity": 87761,
       "article": 88,
       "bsn": 17608,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=17608",
@@ -60,7 +60,7 @@
     {
       "rank": 6,
       "title": "AION2",
-      "popularity": 80448,
+      "popularity": 76926,
       "article": 86,
       "bsn": 82913,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=82913",
@@ -70,7 +70,7 @@
     {
       "rank": 7,
       "title": "英雄聯盟 League of Legends",
-      "popularity": 70227,
+      "popularity": 69482,
       "article": 188,
       "bsn": 17532,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=17532",
@@ -80,7 +80,7 @@
     {
       "rank": 8,
       "title": "燕雲十六聲",
-      "popularity": 63124,
+      "popularity": 63461,
       "article": 246,
       "bsn": 75703,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=75703",
@@ -90,7 +90,7 @@
     {
       "rank": 9,
       "title": "RO 仙境傳說 Online",
-      "popularity": 48561,
+      "popularity": 47779,
       "article": 13,
       "bsn": 4212,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=4212",
@@ -100,7 +100,7 @@
     {
       "rank": 10,
       "title": "暗黑破壞神",
-      "popularity": 33168,
+      "popularity": 33141,
       "article": 65,
       "bsn": 742,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=742",
@@ -110,7 +110,7 @@
     {
       "rank": 11,
       "title": "黑色沙漠 BLACK DESERT",
-      "popularity": 26088,
+      "popularity": 27153,
       "article": 4,
       "bsn": 19017,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=19017",
@@ -120,7 +120,7 @@
     {
       "rank": 12,
       "title": "鬥陣特攻",
-      "popularity": 23897,
+      "popularity": 22573,
       "article": 15,
       "bsn": 27362,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=27362",
@@ -130,7 +130,7 @@
     {
       "rank": 13,
       "title": "WOW 魔獸世界",
-      "popularity": 23005,
+      "popularity": 22185,
       "article": 28,
       "bsn": 5219,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=5219",
@@ -140,7 +140,7 @@
     {
       "rank": 14,
       "title": "赤血沙漠",
-      "popularity": 21936,
+      "popularity": 21806,
       "article": 16,
       "bsn": 37615,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=37615",
@@ -150,7 +150,7 @@
     {
       "rank": 15,
       "title": "流亡黯道 Path of Exile",
-      "popularity": 20299,
+      "popularity": 20352,
       "article": 5,
       "bsn": 18966,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=18966",
@@ -159,18 +159,8 @@
     },
     {
       "rank": 16,
-      "title": "Freestyle: Reboot",
-      "popularity": 16587,
-      "article": 24,
-      "bsn": 85300,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=85300",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 17,
       "title": "Minecraft 我的世界（當個創世神）",
-      "popularity": 16403,
+      "popularity": 16477,
       "article": 27,
       "bsn": 18673,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=18673",
@@ -178,9 +168,19 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
+      "rank": 17,
+      "title": "Freestyle: Reboot",
+      "popularity": 16473,
+      "article": 24,
+      "bsn": 85300,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=85300",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
       "rank": 18,
       "title": "流亡黯道 PoE 2",
-      "popularity": 15119,
+      "popularity": 15037,
       "article": 5,
       "bsn": 82273,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=82273",
@@ -190,7 +190,7 @@
     {
       "rank": 19,
       "title": "RO 仙境傳說 Online：樂園",
-      "popularity": 11207,
+      "popularity": 11190,
       "article": 9,
       "bsn": 83142,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=83142",
@@ -200,7 +200,7 @@
     {
       "rank": 20,
       "title": "CS Online﹝絕對武力﹞",
-      "popularity": 9774,
+      "popularity": 9764,
       "article": 3,
       "bsn": 11902,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=11902",
@@ -209,18 +209,8 @@
     },
     {
       "rank": 21,
-      "title": "爐石戰記",
-      "popularity": 9412,
-      "article": 2,
-      "bsn": 24044,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=24044",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 22,
       "title": "Garena 三角洲行動",
-      "popularity": 9131,
+      "popularity": 9210,
       "article": 7,
       "bsn": 78342,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=78342",
@@ -228,9 +218,9 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "火炬之光：無限",
-      "popularity": 9083,
+      "popularity": 8983,
       "article": 7,
       "bsn": 74756,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=74756",
@@ -238,9 +228,19 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
+      "rank": 23,
+      "title": "爐石戰記",
+      "popularity": 8962,
+      "article": 2,
+      "bsn": 24044,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=24044",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
       "rank": 24,
       "title": "天堂Lineage",
-      "popularity": 8791,
+      "popularity": 8909,
       "article": 0,
       "bsn": 842,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=842",
@@ -250,7 +250,7 @@
     {
       "rank": 25,
       "title": "APEX 英雄",
-      "popularity": 8089,
+      "popularity": 8030,
       "article": 1,
       "bsn": 36072,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=36072",
@@ -260,7 +260,7 @@
     {
       "rank": 26,
       "title": "新瑪奇 Mabinogi",
-      "popularity": 7777,
+      "popularity": 7879,
       "article": 2,
       "bsn": 7422,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=7422",
@@ -270,7 +270,7 @@
     {
       "rank": 27,
       "title": "戰鎚：40K 系列（Warhammer:40000）",
-      "popularity": 6822,
+      "popularity": 6852,
       "article": 4,
       "bsn": 7506,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=7506",
@@ -280,7 +280,7 @@
     {
       "rank": 28,
       "title": "Slay the Spire",
-      "popularity": 6644,
+      "popularity": 6632,
       "article": 2,
       "bsn": 33661,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=33661",
@@ -289,18 +289,18 @@
     },
     {
       "rank": 29,
-      "title": "龍胤立志傳",
-      "popularity": 6272,
-      "article": 4,
-      "bsn": 84973,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=84973",
+      "title": "戰艦世界 World of Warships",
+      "popularity": 6317,
+      "article": 1,
+      "bsn": 21052,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=21052",
       "category_slug": "pc",
       "category_label": "PC遊戲哈啦區"
     },
     {
       "rank": 30,
       "title": "電馭叛客 2077",
-      "popularity": 6090,
+      "popularity": 6196,
       "article": 2,
       "bsn": 23379,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=23379",
@@ -309,8 +309,18 @@
     },
     {
       "rank": 31,
+      "title": "龍胤立志傳",
+      "popularity": 6109,
+      "article": 4,
+      "bsn": 84973,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=84973",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 32,
       "title": "戰地風雲",
-      "popularity": 5958,
+      "popularity": 5926,
       "article": 6,
       "bsn": 4220,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=4220",
@@ -318,49 +328,9 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 32,
-      "title": "戰艦世界 World of Warships",
-      "popularity": 5910,
-      "article": 1,
-      "bsn": 21052,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=21052",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
       "rank": 33,
-      "title": "絕地求生 PUBG",
-      "popularity": 5758,
-      "article": 5,
-      "bsn": 30630,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=30630",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 34,
-      "title": "希望戀曲 Online",
-      "popularity": 5167,
-      "article": 1,
-      "bsn": 18041,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=18041",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 35,
-      "title": "雀魂麻將majsoul",
-      "popularity": 5022,
-      "article": 5,
-      "bsn": 36476,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=36476",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 36,
       "title": "戰車世界 World of Tanks",
-      "popularity": 4986,
+      "popularity": 5708,
       "article": 1,
       "bsn": 18214,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=18214",
@@ -368,9 +338,39 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
+      "rank": 34,
+      "title": "絕地求生 PUBG",
+      "popularity": 5622,
+      "article": 5,
+      "bsn": 30630,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=30630",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 35,
+      "title": "希望戀曲 Online",
+      "popularity": 5278,
+      "article": 1,
+      "bsn": 18041,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=18041",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 36,
+      "title": "雀魂麻將majsoul",
+      "popularity": 4980,
+      "article": 5,
+      "bsn": 36476,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=36476",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
       "rank": 37,
       "title": "Warframe",
-      "popularity": 4836,
+      "popularity": 4897,
       "article": 5,
       "bsn": 22797,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=22797",
@@ -380,7 +380,7 @@
     {
       "rank": 38,
       "title": "柏德之門 系列",
-      "popularity": 4813,
+      "popularity": 4885,
       "article": 1,
       "bsn": 2954,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=2954",
@@ -390,7 +390,7 @@
     {
       "rank": 39,
       "title": "魔力寶貝",
-      "popularity": 4680,
+      "popularity": 4593,
       "article": 0,
       "bsn": 2577,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=2577",
@@ -400,7 +400,7 @@
     {
       "rank": 40,
       "title": "Dead by Daylight（黎明死線）",
-      "popularity": 4503,
+      "popularity": 4499,
       "article": 3,
       "bsn": 29919,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=29919",
@@ -409,28 +409,8 @@
     },
     {
       "rank": 41,
-      "title": "新瑪奇英雄傳",
-      "popularity": 4438,
-      "article": 0,
-      "bsn": 16583,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=16583",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 42,
-      "title": "活俠傳",
-      "popularity": 4380,
-      "article": 2,
-      "bsn": 73317,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=73317",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 43,
       "title": "遙遙西土",
-      "popularity": 4320,
+      "popularity": 4385,
       "article": 1,
       "bsn": 82985,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=82985",
@@ -438,9 +418,29 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
+      "rank": 42,
+      "title": "新瑪奇英雄傳",
+      "popularity": 4347,
+      "article": 0,
+      "bsn": 16583,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=16583",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 43,
+      "title": "活俠傳",
+      "popularity": 4283,
+      "article": 2,
+      "bsn": 73317,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=73317",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
       "rank": 44,
       "title": "世紀帝國 系列",
-      "popularity": 4263,
+      "popularity": 4211,
       "article": 3,
       "bsn": 1122,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=1122",
@@ -450,7 +450,7 @@
     {
       "rank": 45,
       "title": "新墨魂 Online",
-      "popularity": 4111,
+      "popularity": 4087,
       "article": 7,
       "bsn": 38561,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=38561",
@@ -460,7 +460,7 @@
     {
       "rank": 46,
       "title": "Once Human",
-      "popularity": 3891,
+      "popularity": 4077,
       "article": 4,
       "bsn": 78260,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=78260",
@@ -469,18 +469,8 @@
     },
     {
       "rank": 47,
-      "title": "漫威爭鋒",
-      "popularity": 3848,
-      "article": 3,
-      "bsn": 79940,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=79940",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 48,
       "title": "大俠立志傳",
-      "popularity": 3802,
+      "popularity": 3786,
       "article": 0,
       "bsn": 76900,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=76900",
@@ -488,29 +478,9 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 49,
-      "title": "巨商",
-      "popularity": 3643,
-      "article": 0,
-      "bsn": 5079,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=5079",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 50,
-      "title": "天國降臨：救贖 系列",
-      "popularity": 3616,
-      "article": 0,
-      "bsn": 30945,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=30945",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 51,
+      "rank": 48,
       "title": "幻獸帕魯",
-      "popularity": 3604,
+      "popularity": 3769,
       "article": 1,
       "bsn": 71458,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=71458",
@@ -518,9 +488,39 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
+      "rank": 49,
+      "title": "天國降臨：救贖 系列",
+      "popularity": 3640,
+      "article": 0,
+      "bsn": 30945,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=30945",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 50,
+      "title": "漫威爭鋒",
+      "popularity": 3601,
+      "article": 3,
+      "bsn": 79940,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=79940",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 51,
+      "title": "靈魂面甲",
+      "popularity": 3580,
+      "article": 4,
+      "bsn": 79921,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=79921",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
       "rank": 52,
       "title": "飄流幻境 Online",
-      "popularity": 3556,
+      "popularity": 3528,
       "article": 0,
       "bsn": 8897,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=8897",
@@ -529,18 +529,18 @@
     },
     {
       "rank": 53,
-      "title": "靈魂面甲",
-      "popularity": 3478,
-      "article": 4,
-      "bsn": 79921,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=79921",
+      "title": "巨商",
+      "popularity": 3391,
+      "article": 0,
+      "bsn": 5079,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=5079",
       "category_slug": "pc",
       "category_label": "PC遊戲哈啦區"
     },
     {
       "rank": 54,
       "title": "魔獸爭霸",
-      "popularity": 3365,
+      "popularity": 3372,
       "article": 1,
       "bsn": 3044,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=3044",
@@ -560,7 +560,7 @@
     {
       "rank": 56,
       "title": "吸血鬼倖存者",
-      "popularity": 2899,
+      "popularity": 2829,
       "article": 0,
       "bsn": 74171,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=74171",
@@ -570,7 +570,7 @@
     {
       "rank": 57,
       "title": "特戰英豪",
-      "popularity": 2736,
+      "popularity": 2803,
       "article": 2,
       "bsn": 38093,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=38093",
@@ -580,7 +580,7 @@
     {
       "rank": 58,
       "title": "武林同萌傳Online",
-      "popularity": 2641,
+      "popularity": 2730,
       "article": 2,
       "bsn": 6960,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=6960",
@@ -590,7 +590,7 @@
     {
       "rank": 59,
       "title": "上古卷軸 系列(The Elder Scrolls)",
-      "popularity": 2589,
+      "popularity": 2595,
       "article": 0,
       "bsn": 2526,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=2526",
@@ -600,7 +600,7 @@
     {
       "rank": 60,
       "title": "九日",
-      "popularity": 2556,
+      "popularity": 2562,
       "article": 0,
       "bsn": 74687,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=74687",
@@ -609,18 +609,8 @@
     },
     {
       "rank": 61,
-      "title": "三國志 系列",
-      "popularity": 2549,
-      "article": 1,
-      "bsn": 6331,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=6331",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 62,
       "title": "戰意",
-      "popularity": 2528,
+      "popularity": 2555,
       "article": 1,
       "bsn": 30786,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=30786",
@@ -628,9 +618,19 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
+      "rank": 62,
+      "title": "三國志 系列",
+      "popularity": 2542,
+      "article": 1,
+      "bsn": 6331,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=6331",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
       "rank": 63,
       "title": "天外Online",
-      "popularity": 2511,
+      "popularity": 2530,
       "article": 1,
       "bsn": 6784,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=6784",
@@ -639,18 +639,8 @@
     },
     {
       "rank": 64,
-      "title": "異塵餘生 系列",
-      "popularity": 2476,
-      "article": 0,
-      "bsn": 2023,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=2023",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 65,
       "title": "戰慄時空之絕對武力( CS )",
-      "popularity": 2457,
+      "popularity": 2480,
       "article": 1,
       "bsn": 1473,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=1473",
@@ -658,49 +648,19 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 66,
-      "title": "科南的流亡",
-      "popularity": 2435,
-      "article": 2,
-      "bsn": 31364,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=31364",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 67,
-      "title": "阿爾比恩 Online",
-      "popularity": 2428,
-      "article": 4,
-      "bsn": 27044,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=27044",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 68,
-      "title": "黑神話 系列",
-      "popularity": 2410,
+      "rank": 65,
+      "title": "異塵餘生 系列",
+      "popularity": 2415,
       "article": 0,
-      "bsn": 39114,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=39114",
+      "bsn": 2023,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=2023",
       "category_slug": "pc",
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 69,
-      "title": "第一繼承者",
-      "popularity": 2396,
-      "article": 1,
-      "bsn": 71782,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=71782",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 70,
+      "rank": 66,
       "title": "艦隊 Collection",
-      "popularity": 2334,
+      "popularity": 2409,
       "article": 0,
       "bsn": 24698,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=24698",
@@ -708,39 +668,9 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 71,
-      "title": "激戰 2（Guild Wars 2 ）",
-      "popularity": 2321,
-      "article": 4,
-      "bsn": 16901,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=16901",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 72,
-      "title": "潛水員戴夫",
-      "popularity": 2306,
-      "article": 0,
-      "bsn": 35628,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=35628",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 73,
-      "title": "夢幻魔法公主",
-      "popularity": 2296,
-      "article": 0,
-      "bsn": 82629,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=82629",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 74,
+      "rank": 67,
       "title": "風啟之旅",
-      "popularity": 2278,
+      "popularity": 2394,
       "article": 3,
       "bsn": 84857,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=84857",
@@ -748,19 +678,89 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 75,
-      "title": "艾爾之光",
-      "popularity": 2274,
+      "rank": 68,
+      "title": "阿爾比恩 Online",
+      "popularity": 2386,
+      "article": 4,
+      "bsn": 27044,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=27044",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 69,
+      "title": "黑神話 系列",
+      "popularity": 2380,
       "article": 0,
-      "bsn": 12259,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=12259",
+      "bsn": 39114,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=39114",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 70,
+      "title": "激戰 2（Guild Wars 2 ）",
+      "popularity": 2360,
+      "article": 4,
+      "bsn": 16901,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=16901",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 71,
+      "title": "潛水員戴夫",
+      "popularity": 2335,
+      "article": 0,
+      "bsn": 35628,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=35628",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 72,
+      "title": "Stoneshard",
+      "popularity": 2325,
+      "article": 2,
+      "bsn": 38794,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=38794",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 73,
+      "title": "第一繼承者",
+      "popularity": 2314,
+      "article": 1,
+      "bsn": 71782,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=71782",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 74,
+      "title": "科南的流亡",
+      "popularity": 2290,
+      "article": 2,
+      "bsn": 31364,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=31364",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 75,
+      "title": "夢幻魔法公主",
+      "popularity": 2239,
+      "article": 0,
+      "bsn": 82629,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=82629",
       "category_slug": "pc",
       "category_label": "PC遊戲哈啦區"
     },
     {
       "rank": 76,
       "title": "R.E.P.O.",
-      "popularity": 2256,
+      "popularity": 2229,
       "article": 0,
       "bsn": 82396,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=82396",
@@ -769,18 +769,18 @@
     },
     {
       "rank": 77,
-      "title": "Stoneshard",
-      "popularity": 2238,
-      "article": 2,
-      "bsn": 38794,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=38794",
+      "title": "艾爾之光",
+      "popularity": 2207,
+      "article": 0,
+      "bsn": 12259,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=12259",
       "category_slug": "pc",
       "category_label": "PC遊戲哈啦區"
     },
     {
       "rank": 78,
       "title": "戰爭雷霆（War Thunder）",
-      "popularity": 2190,
+      "popularity": 2185,
       "article": 1,
       "bsn": 20947,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=20947",
@@ -790,7 +790,7 @@
     {
       "rank": 79,
       "title": "金庸群俠傳",
-      "popularity": 2125,
+      "popularity": 2113,
       "article": 1,
       "bsn": 10859,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=10859",
@@ -800,7 +800,7 @@
     {
       "rank": 80,
       "title": "霧鎖王國",
-      "popularity": 2093,
+      "popularity": 2076,
       "article": 1,
       "bsn": 77537,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=77537",
@@ -810,7 +810,7 @@
     {
       "rank": 81,
       "title": "逸劍風雲決",
-      "popularity": 2032,
+      "popularity": 2029,
       "article": 0,
       "bsn": 76881,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=76881",
@@ -820,7 +820,7 @@
     {
       "rank": 82,
       "title": "劍靈 Blade & Soul",
-      "popularity": 1993,
+      "popularity": 1991,
       "article": 1,
       "bsn": 12980,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=12980",
@@ -830,7 +830,7 @@
     {
       "rank": 83,
       "title": "Gamble With Your Friends",
-      "popularity": 1925,
+      "popularity": 1958,
       "article": 0,
       "bsn": 85405,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=85405",
@@ -839,28 +839,8 @@
     },
     {
       "rank": 84,
-      "title": "黑帝斯",
-      "popularity": 1921,
-      "article": 1,
-      "bsn": 35739,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=35739",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 85,
-      "title": "永恆輪迴",
-      "popularity": 1907,
-      "article": 1,
-      "bsn": 38217,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=38217",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 86,
       "title": "武林群俠傳 Online",
-      "popularity": 1899,
+      "popularity": 1912,
       "article": 0,
       "bsn": 12118,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=12118",
@@ -868,9 +848,9 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 87,
+      "rank": 85,
       "title": "千年戰爭 Aigis～一般版～",
-      "popularity": 1896,
+      "popularity": 1901,
       "article": 0,
       "bsn": 27417,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=27417",
@@ -878,19 +858,29 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 88,
-      "title": "天使之戀Online 國際版",
-      "popularity": 1880,
-      "article": 0,
-      "bsn": 9734,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=9734",
+      "rank": 86,
+      "title": "永恆輪迴",
+      "popularity": 1892,
+      "article": 1,
+      "bsn": 38217,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=38217",
       "category_slug": "pc",
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 89,
+      "rank": 87,
+      "title": "黑帝斯",
+      "popularity": 1855,
+      "article": 1,
+      "bsn": 35739,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=35739",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 88,
       "title": "新熱血江湖 Online",
-      "popularity": 1844,
+      "popularity": 1847,
       "article": 1,
       "bsn": 8294,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=8294",
@@ -898,9 +888,9 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 90,
+      "rank": 89,
       "title": "邊緣世界",
-      "popularity": 1823,
+      "popularity": 1831,
       "article": 2,
       "bsn": 27313,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=27313",
@@ -908,19 +898,9 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 91,
-      "title": "空洞騎士  系列",
-      "popularity": 1801,
-      "article": 0,
-      "bsn": 27487,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=27487",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 92,
+      "rank": 90,
       "title": "巫師 The Witcher 系列",
-      "popularity": 1797,
+      "popularity": 1807,
       "article": 1,
       "bsn": 7364,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=7364",
@@ -928,9 +908,19 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 93,
+      "rank": 91,
+      "title": "天使之戀Online 國際版",
+      "popularity": 1803,
+      "article": 0,
+      "bsn": 9734,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=9734",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 92,
       "title": "失落的方舟（Lost Ark）",
-      "popularity": 1713,
+      "popularity": 1795,
       "article": 0,
       "bsn": 27410,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=27410",
@@ -938,19 +928,19 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 94,
-      "title": "歐洲美洲卡車模擬 系列",
-      "popularity": 1694,
-      "article": 2,
-      "bsn": 16179,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=16179",
+      "rank": 93,
+      "title": "空洞騎士  系列",
+      "popularity": 1783,
+      "article": 0,
+      "bsn": 27487,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=27487",
       "category_slug": "pc",
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 95,
+      "rank": 94,
       "title": "RPG製作大師",
-      "popularity": 1658,
+      "popularity": 1700,
       "article": 0,
       "bsn": 4918,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=4918",
@@ -958,9 +948,9 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 96,
+      "rank": 95,
       "title": "星海爭霸",
-      "popularity": 1653,
+      "popularity": 1649,
       "article": 1,
       "bsn": 3037,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=3037",
@@ -968,39 +958,19 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
+      "rank": 96,
+      "title": "歐洲美洲卡車模擬 系列",
+      "popularity": 1640,
+      "article": 2,
+      "bsn": 16179,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=16179",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
       "rank": 97,
-      "title": "逃離塔科夫",
-      "popularity": 1584,
-      "article": 3,
-      "bsn": 29943,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=29943",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 98,
-      "title": "決勝時刻",
-      "popularity": 1557,
-      "article": 1,
-      "bsn": 5371,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=5371",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 99,
-      "title": "永恆冒險 Grand Chase Classic",
-      "popularity": 1539,
-      "article": 0,
-      "bsn": 8948,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=8948",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 100,
       "title": "Subnautica",
-      "popularity": 1530,
+      "popularity": 1597,
       "article": 1,
       "bsn": 26553,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=26553",
@@ -1008,19 +978,9 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 101,
-      "title": "Crusader Kings",
-      "popularity": 1524,
-      "article": 0,
-      "bsn": 19480,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=19480",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 102,
+      "rank": 98,
       "title": "對魔忍特遣隊",
-      "popularity": 1459,
+      "popularity": 1596,
       "article": 4,
       "bsn": 84391,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=84391",
@@ -1028,49 +988,49 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
+      "rank": 99,
+      "title": "決勝時刻",
+      "popularity": 1574,
+      "article": 1,
+      "bsn": 5371,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=5371",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 100,
+      "title": "永恆冒險 Grand Chase Classic",
+      "popularity": 1545,
+      "article": 0,
+      "bsn": 8948,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=8948",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 101,
+      "title": "逃離塔科夫",
+      "popularity": 1542,
+      "article": 3,
+      "bsn": 29943,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=29943",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 102,
+      "title": "Crusader Kings",
+      "popularity": 1475,
+      "article": 0,
+      "bsn": 19480,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=19480",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
       "rank": 103,
-      "title": "鬼谷八荒",
-      "popularity": 1394,
-      "article": 0,
-      "bsn": 70540,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=70540",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 104,
-      "title": "童話 Online",
-      "popularity": 1390,
-      "article": 0,
-      "bsn": 4211,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=4211",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 105,
-      "title": "Free Style",
-      "popularity": 1388,
-      "article": 0,
-      "bsn": 8610,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=8610",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 106,
-      "title": "騎馬與砍殺",
-      "popularity": 1385,
-      "article": 0,
-      "bsn": 16393,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=16393",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 107,
       "title": "星露谷物語 Stardew Valley",
-      "popularity": 1360,
+      "popularity": 1432,
       "article": 0,
       "bsn": 20774,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=20774",
@@ -1078,9 +1038,49 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
+      "rank": 104,
+      "title": "鬼谷八荒",
+      "popularity": 1402,
+      "article": 0,
+      "bsn": 70540,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=70540",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 105,
+      "title": "童話 Online",
+      "popularity": 1402,
+      "article": 0,
+      "bsn": 4211,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=4211",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 106,
+      "title": "Free Style",
+      "popularity": 1375,
+      "article": 0,
+      "bsn": 8610,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=8610",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 107,
+      "title": "騎馬與砍殺",
+      "popularity": 1365,
+      "article": 0,
+      "bsn": 16393,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=16393",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
       "rank": 108,
       "title": "新天堂II",
-      "popularity": 1352,
+      "popularity": 1340,
       "article": 0,
       "bsn": 5264,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=5264",
@@ -1089,18 +1089,8 @@
     },
     {
       "rank": 109,
-      "title": "逃離鴨科夫",
-      "popularity": 1332,
-      "article": 0,
-      "bsn": 83580,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=83580",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 110,
       "title": "殭屍毀滅工程 Project Zomboid",
-      "popularity": 1332,
+      "popularity": 1329,
       "article": 0,
       "bsn": 20202,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=20202",
@@ -1108,29 +1098,9 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 111,
-      "title": "幕府將軍、全軍破敵系列",
-      "popularity": 1283,
-      "article": 0,
-      "bsn": 4236,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=4236",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 112,
-      "title": "石器時代 系列",
-      "popularity": 1281,
-      "article": 0,
-      "bsn": 1571,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=1571",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 113,
+      "rank": 110,
       "title": "方舟 系列",
-      "popularity": 1256,
+      "popularity": 1322,
       "article": 1,
       "bsn": 28423,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=28423",
@@ -1138,9 +1108,39 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
+      "rank": 111,
+      "title": "逃離鴨科夫",
+      "popularity": 1308,
+      "article": 0,
+      "bsn": 83580,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=83580",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 112,
+      "title": "幕府將軍、全軍破敵系列",
+      "popularity": 1281,
+      "article": 0,
+      "bsn": 4236,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=4236",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 113,
+      "title": "仙劍奇俠傳 系列",
+      "popularity": 1280,
+      "article": 0,
+      "bsn": 2417,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=2417",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
       "rank": 114,
       "title": "魔獸世界：經典版",
-      "popularity": 1252,
+      "popularity": 1269,
       "article": 3,
       "bsn": 36703,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=36703",
@@ -1150,7 +1150,7 @@
     {
       "rank": 115,
       "title": "A.V.A 戰地之王",
-      "popularity": 1247,
+      "popularity": 1259,
       "article": 0,
       "bsn": 16618,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=16618",
@@ -1159,38 +1159,18 @@
     },
     {
       "rank": 116,
-      "title": "Cities: Skylines",
-      "popularity": 1235,
+      "title": "石器時代 系列",
+      "popularity": 1243,
       "article": 0,
-      "bsn": 27991,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=27991",
+      "bsn": 1571,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=1571",
       "category_slug": "pc",
       "category_label": "PC遊戲哈啦區"
     },
     {
       "rank": 117,
-      "title": "御城收藏",
-      "popularity": 1233,
-      "article": 0,
-      "bsn": 26608,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=26608",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 118,
-      "title": "仙劍奇俠傳 系列",
-      "popularity": 1229,
-      "article": 0,
-      "bsn": 2417,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=2417",
-      "category_slug": "pc",
-      "category_label": "PC遊戲哈啦區"
-    },
-    {
-      "rank": 119,
       "title": "Core Keeper",
-      "popularity": 1204,
+      "popularity": 1203,
       "article": 0,
       "bsn": 74451,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=74451",
@@ -1198,12 +1178,32 @@
       "category_label": "PC遊戲哈啦區"
     },
     {
-      "rank": 120,
+      "rank": 118,
+      "title": "Cities: Skylines",
+      "popularity": 1199,
+      "article": 0,
+      "bsn": 27991,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=27991",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 119,
       "title": "對魔忍 RPG",
-      "popularity": 1203,
+      "popularity": 1195,
       "article": 0,
       "bsn": 35303,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=35303",
+      "category_slug": "pc",
+      "category_label": "PC遊戲哈啦區"
+    },
+    {
+      "rank": 120,
+      "title": "三國群英傳Online",
+      "popularity": 1174,
+      "article": 1,
+      "bsn": 6777,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=6777",
       "category_slug": "pc",
       "category_label": "PC遊戲哈啦區"
     }

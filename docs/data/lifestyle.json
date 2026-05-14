@@ -10,7 +10,7 @@
     {
       "rank": 1,
       "title": "電腦應用綜合討論",
-      "popularity": 136895,
+      "popularity": 136387,
       "article": 62,
       "bsn": 60030,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60030",
@@ -20,7 +20,7 @@
     {
       "rank": 2,
       "title": "Steam 綜合討論板",
-      "popularity": 59015,
+      "popularity": 59273,
       "article": 26,
       "bsn": 60599,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60599",
@@ -30,7 +30,7 @@
     {
       "rank": 3,
       "title": "綜合公仔玩具討論區",
-      "popularity": 36029,
+      "popularity": 36118,
       "article": 4,
       "bsn": 60036,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60036",
@@ -40,7 +40,7 @@
     {
       "rank": 4,
       "title": "智慧型手機",
-      "popularity": 17751,
+      "popularity": 18124,
       "article": 15,
       "bsn": 60559,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60559",
@@ -50,7 +50,7 @@
     {
       "rank": 5,
       "title": "職場甘苦談",
-      "popularity": 14529,
+      "popularity": 14345,
       "article": 7,
       "bsn": 60561,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60561",
@@ -60,7 +60,7 @@
     {
       "rank": 6,
       "title": "影音視聽討論區",
-      "popularity": 13886,
+      "popularity": 13999,
       "article": 3,
       "bsn": 60535,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60535",
@@ -70,7 +70,7 @@
     {
       "rank": 7,
       "title": "ACG二手交易板",
-      "popularity": 12178,
+      "popularity": 12481,
       "article": 92,
       "bsn": 60508,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60508",
@@ -80,7 +80,7 @@
     {
       "rank": 8,
       "title": "動漫相關綜合",
-      "popularity": 11932,
+      "popularity": 11765,
       "article": 73,
       "bsn": 60037,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60037",
@@ -90,7 +90,7 @@
     {
       "rank": 9,
       "title": "電影娛樂新視界",
-      "popularity": 8649,
+      "popularity": 8620,
       "article": 8,
       "bsn": 60200,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60200",
@@ -100,7 +100,7 @@
     {
       "rank": 10,
       "title": "歡樂惡搞 KUSO",
-      "popularity": 6742,
+      "popularity": 6607,
       "article": 6,
       "bsn": 60084,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60084",
@@ -110,7 +110,7 @@
     {
       "rank": 11,
       "title": "布袋戲文化綜合討論區",
-      "popularity": 5349,
+      "popularity": 5625,
       "article": 4,
       "bsn": 867,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=867",
@@ -120,7 +120,7 @@
     {
       "rank": 12,
       "title": "汽機車討論",
-      "popularity": 4911,
+      "popularity": 4891,
       "article": 5,
       "bsn": 60545,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60545",
@@ -130,7 +130,7 @@
     {
       "rank": 13,
       "title": "野戰 (生存) 遊戲",
-      "popularity": 4022,
+      "popularity": 4036,
       "article": 2,
       "bsn": 60534,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60534",
@@ -140,7 +140,7 @@
     {
       "rank": 14,
       "title": "軍事策略",
-      "popularity": 3221,
+      "popularity": 3206,
       "article": 3,
       "bsn": 60208,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60208",
@@ -150,7 +150,7 @@
     {
       "rank": 15,
       "title": "電視遊樂器綜合討論區",
-      "popularity": 3174,
+      "popularity": 3186,
       "article": 0,
       "bsn": 60001,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60001",
@@ -160,7 +160,7 @@
     {
       "rank": 16,
       "title": "模型技術與資訊",
-      "popularity": 2883,
+      "popularity": 2565,
       "article": 3,
       "bsn": 60053,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60053",
@@ -170,7 +170,7 @@
     {
       "rank": 17,
       "title": "酸甜苦辣留言板",
-      "popularity": 2223,
+      "popularity": 2298,
       "article": 2,
       "bsn": 60091,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60091",
@@ -179,18 +179,8 @@
     },
     {
       "rank": 18,
-      "title": "講談說論",
-      "popularity": 2100,
-      "article": 12,
-      "bsn": 60440,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60440",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 19,
       "title": "虛擬 Youtuber（Vtuber）",
-      "popularity": 2035,
+      "popularity": 2058,
       "article": 14,
       "bsn": 60608,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60608",
@@ -198,9 +188,19 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 19,
+      "title": "講談說論",
+      "popularity": 2047,
+      "article": 12,
+      "bsn": 60440,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60440",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 20,
       "title": "繪畫與影像技術交流",
-      "popularity": 1989,
+      "popularity": 2025,
       "article": 2,
       "bsn": 60143,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60143",
@@ -209,18 +209,8 @@
     },
     {
       "rank": 21,
-      "title": "NBA 系列",
-      "popularity": 1953,
-      "article": 7,
-      "bsn": 4373,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=4373",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 22,
       "title": "VR 虛擬實境綜合討論",
-      "popularity": 1906,
+      "popularity": 1866,
       "article": 0,
       "bsn": 60606,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60606",
@@ -228,9 +218,19 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 22,
+      "title": "NBA 系列",
+      "popularity": 1846,
+      "article": 7,
+      "bsn": 4373,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=4373",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 23,
       "title": "熱門美國影集",
-      "popularity": 1680,
+      "popularity": 1733,
       "article": 6,
       "bsn": 60481,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60481",
@@ -239,28 +239,8 @@
     },
     {
       "rank": 24,
-      "title": "恐怖驚悚",
-      "popularity": 1511,
-      "article": 0,
-      "bsn": 60201,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60201",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 25,
-      "title": "輕小說綜合",
-      "popularity": 1428,
-      "article": 4,
-      "bsn": 60415,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60415",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 26,
       "title": "世界之不可思議",
-      "popularity": 1417,
+      "popularity": 1464,
       "article": 0,
       "bsn": 60433,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60433",
@@ -268,9 +248,29 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 25,
+      "title": "恐怖驚悚",
+      "popularity": 1450,
+      "article": 0,
+      "bsn": 60201,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60201",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 26,
+      "title": "輕小說綜合",
+      "popularity": 1414,
+      "article": 4,
+      "bsn": 60415,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60415",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 27,
       "title": "桌上角色扮演遊戲(TRPG)討論",
-      "popularity": 959,
+      "popularity": 924,
       "article": 2,
       "bsn": 60429,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60429",
@@ -279,18 +279,8 @@
     },
     {
       "rank": 28,
-      "title": "百合天國",
-      "popularity": 901,
-      "article": 1,
-      "bsn": 60405,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60405",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 29,
       "title": "美少女遊戲",
-      "popularity": 900,
+      "popularity": 916,
       "article": 0,
       "bsn": 60446,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60446",
@@ -298,9 +288,19 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 29,
+      "title": "百合天國",
+      "popularity": 885,
+      "article": 1,
+      "bsn": 60405,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60405",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 30,
       "title": "女性向遊戲",
-      "popularity": 862,
+      "popularity": 856,
       "article": 1,
       "bsn": 60480,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60480",
@@ -310,7 +310,7 @@
     {
       "rank": 31,
       "title": "偽娘向上委員會",
-      "popularity": 728,
+      "popularity": 772,
       "article": 0,
       "bsn": 60552,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60552",
@@ -320,7 +320,7 @@
     {
       "rank": 32,
       "title": "綜合實況討論板",
-      "popularity": 723,
+      "popularity": 746,
       "article": 10,
       "bsn": 60592,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60592",
@@ -330,7 +330,7 @@
     {
       "rank": 33,
       "title": "桌上遊戲 (BoardGame) 綜合討論",
-      "popularity": 714,
+      "popularity": 710,
       "article": 0,
       "bsn": 60537,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60537",
@@ -339,18 +339,8 @@
     },
     {
       "rank": 34,
-      "title": "空想奇談創作交流區",
-      "popularity": 577,
-      "article": 3,
-      "bsn": 60154,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60154",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 35,
       "title": "樂器交流板",
-      "popularity": 563,
+      "popularity": 581,
       "article": 0,
       "bsn": 60598,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60598",
@@ -358,9 +348,19 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 35,
+      "title": "空想奇談創作交流區",
+      "popularity": 546,
+      "article": 3,
+      "bsn": 60154,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60154",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 36,
       "title": "軍旅生活",
-      "popularity": 528,
+      "popularity": 530,
       "article": 1,
       "bsn": 60564,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60564",
@@ -369,18 +369,8 @@
     },
     {
       "rank": 37,
-      "title": "VOCALOID 虛擬人聲",
-      "popularity": 475,
-      "article": 0,
-      "bsn": 60499,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60499",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 38,
       "title": "手機與行動遊戲討論區",
-      "popularity": 471,
+      "popularity": 496,
       "article": 1,
       "bsn": 60059,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60059",
@@ -388,9 +378,29 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 38,
+      "title": "VOCALOID 虛擬人聲",
+      "popularity": 483,
+      "article": 0,
+      "bsn": 60499,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60499",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 39,
+      "title": "集換式卡牌遊戲（TCG）討論區",
+      "popularity": 463,
+      "article": 0,
+      "bsn": 81445,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=81445",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 40,
       "title": "小品遊戲分享討論",
-      "popularity": 469,
+      "popularity": 453,
       "article": 3,
       "bsn": 60183,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60183",
@@ -398,22 +408,12 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 40,
-      "title": "偵探推理",
-      "popularity": 452,
-      "article": 0,
-      "bsn": 60219,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60219",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
       "rank": 41,
-      "title": "集換式卡牌遊戲（TCG）討論區",
-      "popularity": 432,
+      "title": "NVIDIA 玩家交流區",
+      "popularity": 434,
       "article": 0,
-      "bsn": 81445,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=81445",
+      "bsn": 60247,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60247",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
@@ -430,7 +430,7 @@
     {
       "rank": 43,
       "title": "程式設計板",
-      "popularity": 418,
+      "popularity": 408,
       "article": 0,
       "bsn": 60292,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60292",
@@ -439,28 +439,18 @@
     },
     {
       "rank": 44,
-      "title": "NVIDIA 玩家交流區",
-      "popularity": 412,
+      "title": "偵探推理",
+      "popularity": 404,
       "article": 0,
-      "bsn": 60247,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60247",
+      "bsn": 60219,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60219",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
     {
       "rank": 45,
-      "title": "Cosplay 電漫角色扮演",
-      "popularity": 379,
-      "article": 1,
-      "bsn": 60253,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60253",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 46,
       "title": "攝影交流板",
-      "popularity": 362,
+      "popularity": 394,
       "article": 0,
       "bsn": 60549,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60549",
@@ -468,19 +458,19 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 47,
-      "title": "日本綜藝影劇",
-      "popularity": 357,
+      "rank": 46,
+      "title": "Cosplay 電漫角色扮演",
+      "popularity": 384,
       "article": 1,
-      "bsn": 60531,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60531",
+      "bsn": 60253,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60253",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "title": "香港漫畫板",
-      "popularity": 353,
+      "popularity": 370,
       "article": 0,
       "bsn": 60414,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60414",
@@ -488,29 +478,9 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 49,
-      "title": "歐美動畫綜合討論",
-      "popularity": 351,
-      "article": 0,
-      "bsn": 60605,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60605",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 50,
-      "title": "幸福寵物交流區",
-      "popularity": 342,
-      "article": 1,
-      "bsn": 60546,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60546",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 51,
+      "rank": 48,
       "title": "棒球運動推廣",
-      "popularity": 335,
+      "popularity": 364,
       "article": 0,
       "bsn": 60530,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60530",
@@ -518,9 +488,39 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 49,
+      "title": "幸福寵物交流區",
+      "popularity": 355,
+      "article": 1,
+      "bsn": 60546,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60546",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 50,
+      "title": "日本綜藝影劇",
+      "popularity": 353,
+      "article": 1,
+      "bsn": 60531,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60531",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 51,
+      "title": "歐美動畫綜合討論",
+      "popularity": 347,
+      "article": 0,
+      "bsn": 60605,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60605",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 52,
       "title": "往日遊戲",
-      "popularity": 332,
+      "popularity": 325,
       "article": 0,
       "bsn": 60230,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60230",
@@ -530,7 +530,7 @@
     {
       "rank": 53,
       "title": "聲優天地",
-      "popularity": 313,
+      "popularity": 319,
       "article": 0,
       "bsn": 60388,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60388",
@@ -540,7 +540,7 @@
     {
       "rank": 54,
       "title": "自行車",
-      "popularity": 242,
+      "popularity": 237,
       "article": 0,
       "bsn": 60562,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60562",
@@ -549,6 +549,16 @@
     },
     {
       "rank": 55,
+      "title": "綜合武術交流",
+      "popularity": 235,
+      "article": 0,
+      "bsn": 60444,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60444",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 56,
       "title": "電漫蘿莉",
       "popularity": 227,
       "article": 6,
@@ -558,19 +568,9 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 56,
-      "title": "綜合武術交流",
-      "popularity": 227,
-      "article": 0,
-      "bsn": 60444,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60444",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
       "rank": 57,
       "title": "八卦板",
-      "popularity": 210,
+      "popularity": 212,
       "article": 0,
       "bsn": 60553,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60553",
@@ -580,7 +580,7 @@
     {
       "rank": 58,
       "title": "Dolls 人形",
-      "popularity": 209,
+      "popularity": 206,
       "article": 1,
       "bsn": 60471,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60471",
@@ -590,7 +590,7 @@
     {
       "rank": 59,
       "title": "PC Game 電腦遊戲綜合討論區",
-      "popularity": 188,
+      "popularity": 190,
       "article": 0,
       "bsn": 60507,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60507",
@@ -599,8 +599,18 @@
     },
     {
       "rank": 60,
+      "title": "電玩人求職中心",
+      "popularity": 187,
+      "article": 0,
+      "bsn": 60490,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60490",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 61,
       "title": "超級大玩家～吃喝玩樂電玩族",
-      "popularity": 186,
+      "popularity": 184,
       "article": 0,
       "bsn": 60080,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60080",
@@ -608,19 +618,9 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 61,
-      "title": "韓國綜藝影劇",
-      "popularity": 175,
-      "article": 0,
-      "bsn": 60536,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60536",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
       "rank": 62,
       "title": "樂高積木相關綜合",
-      "popularity": 175,
+      "popularity": 182,
       "article": 1,
       "bsn": 60584,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60584",
@@ -629,28 +629,18 @@
     },
     {
       "rank": 63,
-      "title": "電玩人求職中心",
-      "popularity": 174,
+      "title": "PC 線上遊戲綜合討論區",
+      "popularity": 179,
       "article": 0,
-      "bsn": 60490,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60490",
+      "bsn": 60520,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60520",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
     {
       "rank": 64,
-      "title": "笑話板",
-      "popularity": 173,
-      "article": 0,
-      "bsn": 60555,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60555",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 65,
       "title": "陰屍路",
-      "popularity": 172,
+      "popularity": 177,
       "article": 0,
       "bsn": 20346,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=20346",
@@ -658,9 +648,19 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 65,
+      "title": "韓國綜藝影劇",
+      "popularity": 173,
+      "article": 0,
+      "bsn": 60536,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60536",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 66,
       "title": "網路購物交流",
-      "popularity": 170,
+      "popularity": 167,
       "article": 0,
       "bsn": 60554,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60554",
@@ -669,18 +669,18 @@
     },
     {
       "rank": 67,
-      "title": "PC 線上遊戲綜合討論區",
-      "popularity": 170,
+      "title": "笑話板",
+      "popularity": 167,
       "article": 0,
-      "bsn": 60520,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60520",
+      "bsn": 60555,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60555",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
     {
       "rank": 68,
       "title": "烹飪技巧",
-      "popularity": 166,
+      "popularity": 159,
       "article": 0,
       "bsn": 60565,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60565",
@@ -689,18 +689,8 @@
     },
     {
       "rank": 69,
-      "title": "BL 綜合討論",
-      "popularity": 152,
-      "article": 0,
-      "bsn": 60198,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60198",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 70,
       "title": "海外生活及旅遊相關",
-      "popularity": 149,
+      "popularity": 151,
       "article": 0,
       "bsn": 60497,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60497",
@@ -708,9 +698,19 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 70,
+      "title": "獸迷主題樂園",
+      "popularity": 140,
+      "article": 0,
+      "bsn": 60604,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60604",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 71,
       "title": "綜合音樂板",
-      "popularity": 136,
+      "popularity": 133,
       "article": 0,
       "bsn": 60229,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60229",
@@ -719,18 +719,8 @@
     },
     {
       "rank": 72,
-      "title": "獸迷主題樂園",
-      "popularity": 136,
-      "article": 0,
-      "bsn": 60604,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60604",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 73,
       "title": "影像處理製作技巧",
-      "popularity": 129,
+      "popularity": 133,
       "article": 0,
       "bsn": 60427,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60427",
@@ -738,9 +728,9 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 74,
+      "rank": 73,
       "title": "外語討論板",
-      "popularity": 128,
+      "popularity": 132,
       "article": 0,
       "bsn": 60541,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60541",
@@ -748,19 +738,19 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 75,
-      "title": "迪士尼電影動畫系列綜合板",
-      "popularity": 110,
+      "rank": 74,
+      "title": "BL 綜合討論",
+      "popularity": 127,
       "article": 0,
-      "bsn": 60600,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60600",
+      "bsn": 60198,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60198",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 76,
+      "rank": 75,
       "title": "巴哈姆特勇者造型哈啦板",
-      "popularity": 110,
+      "popularity": 119,
       "article": 0,
       "bsn": 60094,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60094",
@@ -768,29 +758,9 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 77,
-      "title": "MMD 製作與技術交流",
-      "popularity": 106,
-      "article": 0,
-      "bsn": 60610,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60610",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 78,
-      "title": "魔獸恩仇錄",
-      "popularity": 105,
-      "article": 0,
-      "bsn": 60503,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60503",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 79,
+      "rank": 76,
       "title": "遊戲修改寶典",
-      "popularity": 104,
+      "popularity": 114,
       "article": 0,
       "bsn": 60041,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60041",
@@ -798,9 +768,19 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 80,
+      "rank": 77,
+      "title": "魔獸恩仇錄",
+      "popularity": 113,
+      "article": 0,
+      "bsn": 60503,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60503",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 78,
       "title": "圖書交流哈啦板",
-      "popularity": 97,
+      "popularity": 106,
       "article": 0,
       "bsn": 60286,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60286",
@@ -808,9 +788,9 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 81,
+      "rank": 79,
       "title": "屏東板",
-      "popularity": 94,
+      "popularity": 105,
       "article": 0,
       "bsn": 60579,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60579",
@@ -818,19 +798,29 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 82,
-      "title": "獨立遊戲 Indie Game",
-      "popularity": 84,
-      "article": 1,
-      "bsn": 60603,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60603",
+      "rank": 80,
+      "title": "MMD 製作與技術交流",
+      "popularity": 102,
+      "article": 0,
+      "bsn": 60610,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60610",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 83,
+      "rank": 81,
+      "title": "迪士尼電影動畫系列綜合板",
+      "popularity": 93,
+      "article": 0,
+      "bsn": 60600,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60600",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 82,
       "title": "奇幻文學與遊戲",
-      "popularity": 80,
+      "popularity": 93,
       "article": 0,
       "bsn": 60215,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60215",
@@ -838,29 +828,19 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 83,
+      "title": "獨立遊戲 Indie Game",
+      "popularity": 81,
+      "article": 1,
+      "bsn": 60603,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60603",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 84,
-      "title": "網咖向上委員會",
-      "popularity": 78,
-      "article": 0,
-      "bsn": 60355,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60355",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 85,
-      "title": "校園生活",
-      "popularity": 74,
-      "article": 0,
-      "bsn": 60556,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60556",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 86,
       "title": "AMD Fans 俱樂部",
-      "popularity": 74,
+      "popularity": 78,
       "article": 0,
       "bsn": 60152,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60152",
@@ -868,17 +848,27 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 87,
-      "title": "台中市",
-      "popularity": 72,
+      "rank": 85,
+      "title": "網咖向上委員會",
+      "popularity": 76,
       "article": 0,
-      "bsn": 60569,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60569",
+      "bsn": 60355,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60355",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 88,
+      "rank": 86,
+      "title": "校園生活",
+      "popularity": 76,
+      "article": 0,
+      "bsn": 60556,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60556",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 87,
       "title": "台南市",
       "popularity": 67,
       "article": 0,
@@ -888,9 +878,39 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 88,
+      "title": "光榮板",
+      "popularity": 66,
+      "article": 0,
+      "bsn": 60022,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60022",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 89,
-      "title": "國產遊戲綜合區",
+      "title": "台中市",
       "popularity": 64,
+      "article": 0,
+      "bsn": 60569,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60569",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 90,
+      "title": "巴哈勇者造型創作技巧討論板",
+      "popularity": 63,
+      "article": 0,
+      "bsn": 60153,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60153",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 91,
+      "title": "國產遊戲綜合區",
+      "popularity": 63,
       "article": 0,
       "bsn": 60402,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60402",
@@ -898,7 +918,7 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 90,
+      "rank": 92,
       "title": "嘉義板",
       "popularity": 63,
       "article": 0,
@@ -908,29 +928,9 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 91,
-      "title": "光榮板",
-      "popularity": 60,
-      "article": 0,
-      "bsn": 60022,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60022",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 92,
-      "title": "SQUARE ENIX",
-      "popularity": 59,
-      "article": 0,
-      "bsn": 60071,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60071",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
       "rank": 93,
       "title": "特文館寫作交流區",
-      "popularity": 58,
+      "popularity": 62,
       "article": 0,
       "bsn": 60156,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60156",
@@ -939,28 +939,8 @@
     },
     {
       "rank": 94,
-      "title": "巴哈勇者造型創作技巧討論板",
-      "popularity": 56,
-      "article": 0,
-      "bsn": 60153,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60153",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 95,
-      "title": "SCP 基金會綜合討論",
-      "popularity": 56,
-      "article": 0,
-      "bsn": 22580,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=22580",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 96,
       "title": "流行娛樂特區",
-      "popularity": 55,
+      "popularity": 62,
       "article": 0,
       "bsn": 60434,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60434",
@@ -968,9 +948,9 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 97,
+      "rank": 95,
       "title": "網路暨遊戲安全防護",
-      "popularity": 54,
+      "popularity": 59,
       "article": 0,
       "bsn": 60289,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60289",
@@ -978,19 +958,9 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 98,
-      "title": "桃園板",
-      "popularity": 54,
-      "article": 0,
-      "bsn": 60572,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60572",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 99,
+      "rank": 96,
       "title": "武俠世界",
-      "popularity": 52,
+      "popularity": 58,
       "article": 0,
       "bsn": 60368,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60368",
@@ -998,7 +968,47 @@
       "category_label": "宅生活哈拉區"
     },
     {
+      "rank": 97,
+      "title": "桃園板",
+      "popularity": 57,
+      "article": 0,
+      "bsn": 60572,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60572",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 98,
+      "title": "SQUARE ENIX",
+      "popularity": 57,
+      "article": 0,
+      "bsn": 60071,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60071",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 99,
+      "title": "心理測驗綜合討論",
+      "popularity": 52,
+      "article": 0,
+      "bsn": 60217,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60217",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
       "rank": 100,
+      "title": "台北市",
+      "popularity": 52,
+      "article": 0,
+      "bsn": 60567,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60567",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 101,
       "title": "CSI 犯罪現場 系列",
       "popularity": 52,
       "article": 0,
@@ -1008,9 +1018,9 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 101,
+      "rank": 102,
       "title": "APP 軟體交流",
-      "popularity": 52,
+      "popularity": 50,
       "article": 0,
       "bsn": 60593,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60593",
@@ -1018,22 +1028,12 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 102,
-      "title": "心理測驗綜合討論",
-      "popularity": 49,
-      "article": 0,
-      "bsn": 60217,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60217",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
       "rank": 103,
-      "title": "台北市",
+      "title": "SCP 基金會綜合討論",
       "popularity": 49,
       "article": 0,
-      "bsn": 60567,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60567",
+      "bsn": 22580,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=22580",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
@@ -1049,8 +1049,18 @@
     },
     {
       "rank": 105,
+      "title": "養成網頁遊戲～寵物愛好者",
+      "popularity": 47,
+      "article": 2,
+      "bsn": 60306,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60306",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 106,
       "title": "中華歷史相關遊戲",
-      "popularity": 48,
+      "popularity": 47,
       "article": 0,
       "bsn": 60318,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60318",
@@ -1058,29 +1068,19 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 106,
-      "title": "日本歷史相關ACG(遊戲動漫)",
-      "popularity": 47,
-      "article": 0,
-      "bsn": 60238,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60238",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
       "rank": 107,
-      "title": "日本歌曲與歌手",
+      "title": "魔術方塊",
       "popularity": 46,
       "article": 0,
-      "bsn": 60601,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60601",
+      "bsn": 60532,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60532",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
     {
       "rank": 108,
       "title": "海外遊戲先鋒板",
-      "popularity": 43,
+      "popularity": 46,
       "article": 0,
       "bsn": 60543,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60543",
@@ -1089,28 +1089,28 @@
     },
     {
       "rank": 109,
-      "title": "養成網頁遊戲～寵物愛好者",
-      "popularity": 42,
-      "article": 2,
-      "bsn": 60306,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60306",
+      "title": "日本歷史相關ACG(遊戲動漫)",
+      "popularity": 45,
+      "article": 0,
+      "bsn": 60238,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60238",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
     {
       "rank": 110,
-      "title": "魔術方塊",
-      "popularity": 39,
+      "title": "日本歌曲與歌手",
+      "popularity": 43,
       "article": 0,
-      "bsn": 60532,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60532",
+      "bsn": 60601,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60601",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
     {
       "rank": 111,
       "title": "飛鏢運動推廣交流",
-      "popularity": 38,
+      "popularity": 41,
       "article": 0,
       "bsn": 60589,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60589",
@@ -1120,7 +1120,7 @@
     {
       "rank": 112,
       "title": "新竹板",
-      "popularity": 38,
+      "popularity": 40,
       "article": 0,
       "bsn": 60573,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60573",
@@ -1129,21 +1129,21 @@
     },
     {
       "rank": 113,
-      "title": "港澳地區板",
-      "popularity": 35,
+      "title": "星座交流",
+      "popularity": 38,
       "article": 0,
-      "bsn": 60519,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60519",
+      "bsn": 60566,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60566",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
     {
       "rank": 114,
-      "title": "星座交流",
+      "title": "港澳地區板",
       "popularity": 33,
       "article": 0,
-      "bsn": 60566,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60566",
+      "bsn": 60519,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60519",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     },
@@ -1159,6 +1159,16 @@
     },
     {
       "rank": 116,
+      "title": "電子競技運動交流",
+      "popularity": 32,
+      "article": 0,
+      "bsn": 60525,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60525",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 117,
       "title": "西洋綜藝影劇",
       "popularity": 31,
       "article": 0,
@@ -1168,29 +1178,9 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 117,
-      "title": "電子競技運動交流",
-      "popularity": 29,
-      "article": 0,
-      "bsn": 60525,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60525",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
       "rank": 118,
-      "title": "光線槍射擊遊戲",
-      "popularity": 29,
-      "article": 0,
-      "bsn": 60218,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60218",
-      "category_slug": "lifestyle",
-      "category_label": "宅生活哈拉區"
-    },
-    {
-      "rank": 119,
       "title": "同人誌萬花筒",
-      "popularity": 27,
+      "popularity": 31,
       "article": 0,
       "bsn": 60377,
       "board_url": "https://forum.gamer.com.tw/B.php?bsn=60377",
@@ -1198,12 +1188,22 @@
       "category_label": "宅生活哈拉區"
     },
     {
-      "rank": 120,
-      "title": "宜蘭板",
-      "popularity": 26,
+      "rank": 119,
+      "title": "光線槍射擊遊戲",
+      "popularity": 31,
       "article": 0,
-      "bsn": 60580,
-      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60580",
+      "bsn": 60218,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60218",
+      "category_slug": "lifestyle",
+      "category_label": "宅生活哈拉區"
+    },
+    {
+      "rank": 120,
+      "title": "Unreal Engine",
+      "popularity": 27,
+      "article": 0,
+      "bsn": 60607,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=60607",
       "category_slug": "lifestyle",
       "category_label": "宅生活哈拉區"
     }
