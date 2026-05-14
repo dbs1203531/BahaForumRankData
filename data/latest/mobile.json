@@ -1,10 +1,1211 @@
 {
-  "generated_at": "2026-05-13",
+  "generated_at": "2026-05-14",
   "source_url": "https://forum.gamer.com.tw/",
   "category": {
     "slug": "mobile",
     "label": "手機遊戲哈啦區",
-    "board_count": 0
+    "board_count": 120
   },
-  "boards": []
+  "boards": [
+    {
+      "rank": 1,
+      "title": "異環",
+      "popularity": 417236,
+      "article": 280,
+      "bsn": 80679,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=80679",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 2,
+      "title": "SD 鋼彈 G 世代 永恆",
+      "popularity": 218878,
+      "article": 77,
+      "bsn": 74906,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=74906",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 3,
+      "title": "鳴潮",
+      "popularity": 191857,
+      "article": 137,
+      "bsn": 74934,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=74934",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 4,
+      "title": "勝利女神：妮姬",
+      "popularity": 135992,
+      "article": 61,
+      "bsn": 36390,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=36390",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 5,
+      "title": "勇者鬥惡龍 破限亂鬥",
+      "popularity": 126174,
+      "article": 57,
+      "bsn": 83661,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=83661",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 6,
+      "title": "崩壞：星穹鐵道",
+      "popularity": 96877,
+      "article": 59,
+      "bsn": 72822,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=72822",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 7,
+      "title": "棕色塵埃 2",
+      "popularity": 92624,
+      "article": 20,
+      "bsn": 76207,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=76207",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 8,
+      "title": "卡厄思夢境",
+      "popularity": 76417,
+      "article": 31,
+      "bsn": 80099,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=80099",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 9,
+      "title": "明日方舟：終末地",
+      "popularity": 70273,
+      "article": 34,
+      "bsn": 74604,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=74604",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 10,
+      "title": "神魔之塔",
+      "popularity": 64736,
+      "article": 90,
+      "bsn": 23805,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=23805",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 11,
+      "title": "Fate/Grand Order",
+      "popularity": 59026,
+      "article": 49,
+      "bsn": 26742,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=26742",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 12,
+      "title": "貓咪大戰爭（にゃんこ大戦争）",
+      "popularity": 54025,
+      "article": 6,
+      "bsn": 23772,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=23772",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 13,
+      "title": "原神",
+      "popularity": 52756,
+      "article": 32,
+      "bsn": 36730,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=36730",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 14,
+      "title": "天堂 Mobile",
+      "popularity": 45946,
+      "article": 18,
+      "bsn": 25908,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=25908",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 15,
+      "title": "怪物彈珠",
+      "popularity": 38924,
+      "article": 9,
+      "bsn": 25052,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=25052",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 16,
+      "title": "辟邪除妖 Variants Daphne",
+      "popularity": 38778,
+      "article": 17,
+      "bsn": 70180,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=70180",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 17,
+      "title": "RO 仙境傳說：世界之旅",
+      "popularity": 37468,
+      "article": 23,
+      "bsn": 83054,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=83054",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 18,
+      "title": "絕區零",
+      "popularity": 33243,
+      "article": 13,
+      "bsn": 74860,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=74860",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 19,
+      "title": "蔚藍檔案",
+      "popularity": 30354,
+      "article": 15,
+      "bsn": 38898,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=38898",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 20,
+      "title": "Pikmin Bloom",
+      "popularity": 27269,
+      "article": 13,
+      "bsn": 72889,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=72889",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 21,
+      "title": "明日方舟",
+      "popularity": 25123,
+      "article": 17,
+      "bsn": 33651,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=33651",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 22,
+      "title": "傳說對決 Arena of Valor",
+      "popularity": 24742,
+      "article": 209,
+      "bsn": 30518,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=30518",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 23,
+      "title": "寶可夢集換式卡牌遊戲口袋版",
+      "popularity": 24286,
+      "article": 50,
+      "bsn": 79688,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=79688",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 24,
+      "title": "Monster Hunter Now",
+      "popularity": 22931,
+      "article": 13,
+      "bsn": 77414,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=77414",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 25,
+      "title": "點點英雄：骰子傳說",
+      "popularity": 20748,
+      "article": 14,
+      "bsn": 85135,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=85135",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 26,
+      "title": "闇影詩章 Shadowverse",
+      "popularity": 20233,
+      "article": 5,
+      "bsn": 29330,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=29330",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 27,
+      "title": "Pokemon GO",
+      "popularity": 19414,
+      "article": 8,
+      "bsn": 29659,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=29659",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 28,
+      "title": "第七史詩",
+      "popularity": 19342,
+      "article": 17,
+      "bsn": 34880,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=34880",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 29,
+      "title": "天堂 W",
+      "popularity": 16375,
+      "article": 3,
+      "bsn": 71905,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=71905",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 30,
+      "title": "碧藍航線",
+      "popularity": 16365,
+      "article": 6,
+      "bsn": 32550,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=32550",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 31,
+      "title": "塵白禁域",
+      "popularity": 15411,
+      "article": 1,
+      "bsn": 72111,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=72111",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 32,
+      "title": "星塔旅人",
+      "popularity": 13879,
+      "article": 5,
+      "bsn": 81566,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=81566",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 33,
+      "title": "少女前線 2：追放",
+      "popularity": 13775,
+      "article": 12,
+      "bsn": 70502,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=70502",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 34,
+      "title": "MLB：9 局職棒 系列",
+      "popularity": 13323,
+      "article": 7,
+      "bsn": 31114,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=31114",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 35,
+      "title": "全境封鎖：曙光",
+      "popularity": 13281,
+      "article": 8,
+      "bsn": 75244,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=75244",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 36,
+      "title": "鬼雄三國：主公有夠鬼",
+      "popularity": 12328,
+      "article": 26,
+      "bsn": 85099,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=85099",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 37,
+      "title": "無盡輪迴：鬼域摸金",
+      "popularity": 12190,
+      "article": 6,
+      "bsn": 85166,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=85166",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 38,
+      "title": "煙雨江湖",
+      "popularity": 12082,
+      "article": 15,
+      "bsn": 71402,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=71402",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 39,
+      "title": "楓之谷：放置冒險記",
+      "popularity": 11779,
+      "article": 2,
+      "bsn": 82899,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=82899",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 40,
+      "title": "星之救援者 StarSavior",
+      "popularity": 11574,
+      "article": 5,
+      "bsn": 81995,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=81995",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 41,
+      "title": "七大罪：Origin",
+      "popularity": 11182,
+      "article": 4,
+      "bsn": 74141,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=74141",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 42,
+      "title": "楓之谷 M",
+      "popularity": 10925,
+      "article": 3,
+      "bsn": 29461,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=29461",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 43,
+      "title": "三國志•戰略版",
+      "popularity": 10525,
+      "article": 2,
+      "bsn": 36815,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=36815",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 44,
+      "title": "七騎士 RE:BIRTH",
+      "popularity": 10483,
+      "article": 8,
+      "bsn": 79741,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=79741",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 45,
+      "title": "Another Eden：穿越時空的貓",
+      "popularity": 10455,
+      "article": 2,
+      "bsn": 29220,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=29220",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 46,
+      "title": "劍與遠征：啟程",
+      "popularity": 10336,
+      "article": 2,
+      "bsn": 75975,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=75975",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 47,
+      "title": "心動小鎮",
+      "popularity": 10035,
+      "article": 6,
+      "bsn": 75403,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=75403",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 48,
+      "title": "NBA 王朝崛起",
+      "popularity": 9780,
+      "article": 44,
+      "bsn": 85221,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=85221",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 49,
+      "title": "超異域公主連結☆Re:Dive",
+      "popularity": 9423,
+      "article": 37,
+      "bsn": 30861,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=30861",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 50,
+      "title": "天地劫 手機版",
+      "popularity": 9227,
+      "article": 4,
+      "bsn": 38462,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=38462",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 51,
+      "title": "夢幻模擬戰 手機版",
+      "popularity": 9189,
+      "article": 3,
+      "bsn": 33596,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=33596",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 52,
+      "title": "女神異聞錄：夜幕魅影",
+      "popularity": 8792,
+      "article": 4,
+      "bsn": 71034,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=71034",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 53,
+      "title": "信長之野望 真戰",
+      "popularity": 8480,
+      "article": 15,
+      "bsn": 82869,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=82869",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 54,
+      "title": "權力遊戲：國王大道",
+      "popularity": 8357,
+      "article": 19,
+      "bsn": 81266,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=81266",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 55,
+      "title": "賽馬娘Pretty Derby",
+      "popularity": 8037,
+      "article": 5,
+      "bsn": 34421,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=34421",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 56,
+      "title": "緋紅的神約 Echocalypse",
+      "popularity": 7040,
+      "article": 1,
+      "bsn": 75058,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=75058",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 57,
+      "title": "杖劍傳說：坎斯汀之約",
+      "popularity": 6890,
+      "article": 2,
+      "bsn": 80389,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=80389",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 58,
+      "title": "鈴蘭之劍：爲這和平的世界",
+      "popularity": 6846,
+      "article": 2,
+      "bsn": 71838,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=71838",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 59,
+      "title": "Limbus Company",
+      "popularity": 6666,
+      "article": 2,
+      "bsn": 73052,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=73052",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 60,
+      "title": "緋染天空 Heaven Burns Red",
+      "popularity": 6594,
+      "article": 2,
+      "bsn": 37697,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=37697",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 61,
+      "title": "英雄聯盟：聯盟戰棋",
+      "popularity": 6166,
+      "article": 4,
+      "bsn": 38053,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=38053",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 62,
+      "title": "Rogue with the Dead - 亡途轉生",
+      "popularity": 5919,
+      "article": 2,
+      "bsn": 81808,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=81808",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 63,
+      "title": "荒野亂鬥",
+      "popularity": 5731,
+      "article": 1,
+      "bsn": 32407,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=32407",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 64,
+      "title": "最後的克勞迪亞",
+      "popularity": 5714,
+      "article": 1,
+      "bsn": 35735,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=35735",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 65,
+      "title": "Kingshot",
+      "popularity": 5536,
+      "article": 3,
+      "bsn": 82382,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=82382",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 66,
+      "title": "逆水寒",
+      "popularity": 5441,
+      "article": 4,
+      "bsn": 77001,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=77001",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 67,
+      "title": "忘卻前夜 Morimens",
+      "popularity": 5355,
+      "article": 4,
+      "bsn": 78829,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=78829",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 68,
+      "title": "重返未來：1999",
+      "popularity": 5206,
+      "article": 5,
+      "bsn": 75028,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=75028",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 69,
+      "title": "運氣拼輸贏",
+      "popularity": 5136,
+      "article": 4,
+      "bsn": 80385,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=80385",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 70,
+      "title": "魔靈召喚",
+      "popularity": 4971,
+      "article": 2,
+      "bsn": 26380,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=26380",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 71,
+      "title": "魔御：STAR DIVE",
+      "popularity": 4926,
+      "article": 3,
+      "bsn": 81457,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=81457",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 72,
+      "title": "問答 RPG 魔法使與黑貓維茲",
+      "popularity": 4906,
+      "article": 5,
+      "bsn": 25730,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=25730",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 73,
+      "title": "嘟嘟臉惡作劇",
+      "popularity": 4869,
+      "article": 3,
+      "bsn": 78781,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=78781",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 74,
+      "title": "Pokémon Sleep",
+      "popularity": 4782,
+      "article": 9,
+      "bsn": 36685,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=36685",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 75,
+      "title": "薑餅人王國",
+      "popularity": 4734,
+      "article": 2,
+      "bsn": 70199,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=70199",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 76,
+      "title": "世界計畫 繽紛舞台！ feat. 初音未來",
+      "popularity": 4541,
+      "article": 2,
+      "bsn": 37505,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=37505",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 77,
+      "title": "RO 仙境傳說：愛如初見 Classic",
+      "popularity": 4449,
+      "article": 3,
+      "bsn": 84500,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=84500",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 78,
+      "title": "寒霜啟示錄",
+      "popularity": 4253,
+      "article": 0,
+      "bsn": 76999,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=76999",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 79,
+      "title": "DRAGON BALL Z -七龍珠爆裂激戰-",
+      "popularity": 4207,
+      "article": 5,
+      "bsn": 27096,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=27096",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 80,
+      "title": "守望傳說 Guardian Tales",
+      "popularity": 4190,
+      "article": 4,
+      "bsn": 38113,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=38113",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 81,
+      "title": "碧藍幻想 系列",
+      "popularity": 4122,
+      "article": 8,
+      "bsn": 25204,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=25204",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 82,
+      "title": "英雄傳說 卡卡布三部曲",
+      "popularity": 4025,
+      "article": 8,
+      "bsn": 80736,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=80736",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 83,
+      "title": "龍族拼圖 Puzzle & Dragons",
+      "popularity": 3975,
+      "article": 0,
+      "bsn": 22153,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=22153",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 84,
+      "title": "寶可夢大師",
+      "popularity": 3756,
+      "article": 1,
+      "bsn": 36673,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=36673",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 85,
+      "title": "三國：謀定天下",
+      "popularity": 3682,
+      "article": 0,
+      "bsn": 83812,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=83812",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 86,
+      "title": "RO 新世代：攜手同行",
+      "popularity": 3535,
+      "article": 1,
+      "bsn": 37030,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=37030",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 87,
+      "title": "XXL 猛漢町",
+      "popularity": 3509,
+      "article": 0,
+      "bsn": 80107,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=80107",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 88,
+      "title": "白貓 Project",
+      "popularity": 3483,
+      "article": 1,
+      "bsn": 26686,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=26686",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 89,
+      "title": "Bleach：刀鳴",
+      "popularity": 3414,
+      "article": 1,
+      "bsn": 78017,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=78017",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 90,
+      "title": "我獨自升級：ARISE",
+      "popularity": 3321,
+      "article": 2,
+      "bsn": 77218,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=77218",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 91,
+      "title": "同盟塔防戰",
+      "popularity": 3302,
+      "article": 5,
+      "bsn": 81508,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=81508",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 92,
+      "title": "遺忘之劍",
+      "popularity": 3265,
+      "article": 4,
+      "bsn": 80652,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=80652",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 93,
+      "title": "地牢深處 Dungeon Within",
+      "popularity": 3224,
+      "article": 0,
+      "bsn": 85358,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=85358",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 94,
+      "title": "歧路旅人：大陸的霸者",
+      "popularity": 3188,
+      "article": 0,
+      "bsn": 36225,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=36225",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 95,
+      "title": "遊戲王 決鬥聯盟",
+      "popularity": 3155,
+      "article": 3,
+      "bsn": 29618,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=29618",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 96,
+      "title": "MLB 勁旅對決",
+      "popularity": 3116,
+      "article": 1,
+      "bsn": 77583,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=77583",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 97,
+      "title": "鎖鏈戰記 CHAIN CHRONICLE",
+      "popularity": 3109,
+      "article": 3,
+      "bsn": 24520,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=24520",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 98,
+      "title": "忍者喵喵：保衛村莊",
+      "popularity": 3042,
+      "article": 1,
+      "bsn": 80326,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=80326",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 99,
+      "title": "仙逆 M",
+      "popularity": 3008,
+      "article": 0,
+      "bsn": 85478,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=85478",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 100,
+      "title": "蔚藍星球：國王很忙",
+      "popularity": 3007,
+      "article": 3,
+      "bsn": 83538,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=83538",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 101,
+      "title": "部落衝突：皇室戰爭",
+      "popularity": 3001,
+      "article": 1,
+      "bsn": 29712,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=29712",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 102,
+      "title": "召喚圖板 Summons Board",
+      "popularity": 2984,
+      "article": 0,
+      "bsn": 25691,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=25691",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 103,
+      "title": "我想成為影之強者！Master of Garden",
+      "popularity": 2709,
+      "article": 1,
+      "bsn": 75993,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=75993",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 104,
+      "title": "Evil Hunter Tycoon 獵魔村物語",
+      "popularity": 2697,
+      "article": 0,
+      "bsn": 38066,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=38066",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 105,
+      "title": "弓箭傳說 系列",
+      "popularity": 2596,
+      "article": 1,
+      "bsn": 36683,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=36683",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 106,
+      "title": "RO 仙境傳說：守護永恆的愛 Classic",
+      "popularity": 2561,
+      "article": 1,
+      "bsn": 82344,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=82344",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 107,
+      "title": "RAID : Shadow Legends",
+      "popularity": 2530,
+      "article": 1,
+      "bsn": 36208,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=36208",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 108,
+      "title": "英雄聯盟：激鬥峽谷",
+      "popularity": 2374,
+      "article": 1,
+      "bsn": 37459,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=37459",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 109,
+      "title": "托蘭異世錄 Toram Online RPG",
+      "popularity": 2308,
+      "article": 2,
+      "bsn": 28271,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=28271",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 110,
+      "title": "全民打棒球 Pro",
+      "popularity": 2297,
+      "article": 2,
+      "bsn": 39283,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=39283",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 111,
+      "title": "崩壞 3rd",
+      "popularity": 2266,
+      "article": 1,
+      "bsn": 31066,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=31066",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 112,
+      "title": "新熱血江湖：世界",
+      "popularity": 2259,
+      "article": 2,
+      "bsn": 84232,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=84232",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 113,
+      "title": "RO仙境傳說：守護永恆的愛",
+      "popularity": 2250,
+      "article": 0,
+      "bsn": 28924,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=28924",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 114,
+      "title": "航海王：秘寶尋航",
+      "popularity": 2240,
+      "article": 1,
+      "bsn": 26291,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=26291",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 115,
+      "title": "魔力寶貝：重返法蘭",
+      "popularity": 2227,
+      "article": 2,
+      "bsn": 84025,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=84025",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 116,
+      "title": "BanG Dream！少女樂團派對",
+      "popularity": 2212,
+      "article": 0,
+      "bsn": 31877,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=31877",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 117,
+      "title": "卡皮巴拉 Go",
+      "popularity": 2203,
+      "article": 0,
+      "bsn": 81254,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=81254",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 118,
+      "title": "暗黑破壞神：永生不朽",
+      "popularity": 2166,
+      "article": 0,
+      "bsn": 35531,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=35531",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 119,
+      "title": "全明星街球派對",
+      "popularity": 2140,
+      "article": 1,
+      "bsn": 79697,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=79697",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    },
+    {
+      "rank": 120,
+      "title": "eBaseball : MLB PRO SPIRIT",
+      "popularity": 2130,
+      "article": 1,
+      "bsn": 81329,
+      "board_url": "https://forum.gamer.com.tw/B.php?bsn=81329",
+      "category_slug": "mobile",
+      "category_label": "手機遊戲哈啦區"
+    }
+  ]
 }
